@@ -18,3 +18,6 @@ git config --global user.name "jamilrayhan10"
 ```
 git config --global user.email "jamilrayhan100@gmail.com"
 ```
+
+### example 
+![side by side install](/images/github-usernam.png)
