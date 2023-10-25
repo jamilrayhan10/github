@@ -20,4 +20,4 @@ git config --global user.email "jamilrayhan100@gmail.com"
 ```
 
 ### example 
-![side by side install](/images/github-usernam.png)
+![user-name](/images/github-usernam-light.png)
