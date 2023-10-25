@@ -8,7 +8,7 @@
 
 > #####  1. Open Git Bash.
 > #####  2. Set a Git username:
-```
+```bash
 git config --global user.name "jamilrayhan10"
 ```
 #### Git Config Email Command
@@ -21,3 +21,8 @@ git config --global user.email "jamilrayhan100@gmail.com"
 
 ### example 
 ![user-name](/images/github-usernam-light.png)
+
+
+```json
+"user-name": true
+```
