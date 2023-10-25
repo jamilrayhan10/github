@@ -34,6 +34,7 @@ git config --global user.email "jamilrayhan100@gmail.com"
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
 | React js Devloper   | Themepure                                   | Feb 2023 - Running  | Dhaka, Bangladesh  |
+| Teacher (Madrasah)  | Sirajpur Sunamgonj                          | 2018 - 2021         | Sunamgonj          |
              
 
 <br />
