@@ -1,9 +1,8 @@
 
 > Develop by jamil-rayhan
-> [Facebook.com](https://www.facebook.com/jamil.rayhan100)
-> [Linkedin](https://www.linkedin.com/in/jamilrayhan10/)
-
-# [VS Code](https://code.visualstudio.com) Tips and Tricks
+> ### [Facebook.com](https://www.facebook.com/jamil.rayhan100)
+> ### [Linkedin](https://www.linkedin.com/in/jamilrayhan10/)
+ 
 
 #### Git Config Username Command for every repository on your computer
 
