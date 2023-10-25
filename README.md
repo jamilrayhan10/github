@@ -27,4 +27,4 @@ git config --global user.email "jamilrayhan100@gmail.com"
 "is developer": true
 ```
 **Data 25-10-2023**
-* jamil rayhan
+* [jamil rayhan]
