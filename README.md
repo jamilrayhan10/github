@@ -45,7 +45,7 @@ git config --global user.email "jamilrayhan100@gmail.com"
 
 <br />
 
-### 👨🏻‍🎓 &nbsp; Education
+###  &nbsp; Education
 
 1. Takmil Fil Hadis / Marter's
    Jamia Abbasia Qowri Islamabad, Biswonath, Sylhet, Bnagladesh.
