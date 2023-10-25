@@ -15,6 +15,7 @@ git config --global user.name "jamilrayhan10"
 #### Git Config Email Command
 
 > #####  1. Open Git Bash.
+> #####  2. Set a Git email:
 ```
 git config --global user.email "jamilrayhan100@gmail.com"
 
