@@ -10,7 +10,6 @@
 > #####  2. Set a Git username:
 ```
 git config --global user.name "jamilrayhan10"
-
 ```
 #### Git Config Email Command
 
@@ -18,5 +17,4 @@ git config --global user.name "jamilrayhan10"
 > #####  2. Set a Git email:
 ```
 git config --global user.email "jamilrayhan100@gmail.com"
-
 ```
