@@ -1,7 +1,7 @@
 ![jamil rayhan](/images/jamil.png)
-> *Develop by jamil-rayhan* 
-> 👉 [Facebook.com](https://www.facebook.com/jamil.rayhan100)
-> 👉 [Linkedin](https://www.linkedin.com/in/jamilrayhan10/)
+> *Develop by jamil-rayhan*  <br />
+> 👉 [Facebook.com](https://www.facebook.com/jamil.rayhan100) <br />
+> 👉 [Linkedin](https://www.linkedin.com/in/jamilrayhan10/) <br />
  
 
 #### Git Config Username Command for every repository on your computer
@@ -28,3 +28,12 @@ git config --global user.email "jamilrayhan100@gmail.com"
 ```
 **Data 25-10-2023**
 * [jamil rayhan](https://www.facebook.com/jamil.rayhan100)
+
+### 💼 &nbsp; Employment History
+
+| Position            | Institute                                   | Duration            | Location           |
+| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
+| React js Devloper   | Themepure                                   | Feb 2023 - Running  | Dhaka, Bangladesh  |
+             
+
+<br />
