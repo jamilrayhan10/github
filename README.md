@@ -1,11 +1,20 @@
 
-> **Develop** by jamil-rayhan
+> Develop by jamil-rayhan
+> [Facebook.com](https://www.facebook.com/jamil.rayhan100)
+> [Linkedin](https://www.linkedin.com/in/jamilrayhan10/)
 
-### Setting your Git username for every repository on your computer
+# [VS Code](https://code.visualstudio.com) Tips and Tricks
+
+#### Git Config Username Command for every repository on your computer
 
 > #####  1. Open Git Bash.
 > #####  2. Set a Git username:
 ```
 git config --global user.name "jamilrayhan10"
+
+```
+#### Git Config Email Command
+```
+git config --global user.email "jamilrayhan100@gmail.com"
 
 ```
